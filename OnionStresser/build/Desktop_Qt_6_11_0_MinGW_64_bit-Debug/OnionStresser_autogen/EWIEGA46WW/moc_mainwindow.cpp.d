@@ -1,5 +1,5 @@
-D:/Programowanie/projects/Qt/OnionStresser/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/OnionStresser_autogen/EWIEGA46WW/moc_mainwindow.cpp: D:/Programowanie/projects/Qt/OnionStresser/mainwindow.h \
-  D:/Programowanie/projects/Qt/OnionStresser/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/OnionStresser_autogen/moc_predefs.h \
+D:/Programowanie/projects/Qt/OnionStresser/OnionStresser/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/OnionStresser_autogen/EWIEGA46WW/moc_mainwindow.cpp: D:/Programowanie/projects/Qt/OnionStresser/OnionStresser/mainwindow.h \
+  D:/Programowanie/projects/Qt/OnionStresser/OnionStresser/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/OnionStresser_autogen/moc_predefs.h \
   D:/Qt/6.11.0/mingw_64/include/QtCore/q17memory.h \
   D:/Qt/6.11.0/mingw_64/include/QtCore/q20bit.h \
   D:/Qt/6.11.0/mingw_64/include/QtCore/q20functional.h \
