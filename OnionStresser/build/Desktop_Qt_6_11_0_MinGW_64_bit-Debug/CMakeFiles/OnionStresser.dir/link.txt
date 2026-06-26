@@ -1,0 +1,3 @@
+D:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\OnionStresser.dir/objects.a
+D:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\OnionStresser.dir/objects.a @CMakeFiles\OnionStresser.dir\objects1.rsp
+D:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\OnionStresser.dir/objects.a -Wl,--no-whole-archive -o OnionStresser.exe -Wl,--out-implib,libOnionStresser.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OnionStresser.dir\linkLibs.rsp

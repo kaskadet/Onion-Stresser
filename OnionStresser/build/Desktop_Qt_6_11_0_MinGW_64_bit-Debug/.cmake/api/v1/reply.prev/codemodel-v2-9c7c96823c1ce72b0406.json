@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-34cde900992c7ca9f30f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OnionStresser",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OnionStresser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OnionStresser-Debug-f5de2db721a69ebd8626.json",
+					"name" : "OnionStresser",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OnionStresser_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OnionStresser_autogen-Debug-1bf79a19bfac584d4a29.json",
+					"name" : "OnionStresser_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OnionStresser_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OnionStresser_autogen_timestamp_deps-Debug-a8d4525f2a05cc4593ed.json",
+					"name" : "OnionStresser_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programowanie/projects/Qt/OnionStresser/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug",
+		"source" : "D:/Programowanie/projects/Qt/OnionStresser"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

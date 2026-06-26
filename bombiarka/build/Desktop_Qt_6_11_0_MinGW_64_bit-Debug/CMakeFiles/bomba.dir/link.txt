@@ -1,0 +1,3 @@
+D:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\bomba.dir/objects.a
+D:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\bomba.dir/objects.a @CMakeFiles\bomba.dir\objects1.rsp
+D:\Qt\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\bomba.dir/objects.a -Wl,--no-whole-archive -o bomba.exe -Wl,--out-implib,libbomba.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bomba.dir\linkLibs.rsp
