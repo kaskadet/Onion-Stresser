@@ -43,6 +43,7 @@ void MainWindow::on_przycisk_clicked()
             qDebug() << GetLastError();
         }
     } else{
+        bombienie = false;
         TerminateProcess(pi.hProcess, 0);
     }
 }
