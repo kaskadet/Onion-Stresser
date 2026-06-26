@@ -23,6 +23,7 @@ MainWindow::~MainWindow()
 void MainWindow::on_przycisk_clicked()
 {
     if(bombienie != true){
+        bombienie = true;
         ZeroMemory(&si, sizeof(si));
         si.cb = sizeof(si);
         ZeroMemory(&pi, sizeof(pi));
