@@ -27,7 +27,7 @@ void MainWindow::on_przycisk_clicked()
         si.cb = sizeof(si);
         ZeroMemory(&pi, sizeof(pi));
 
-        QString command = "../../../bomba/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/bomba.exe ";
+        QString command = "../../../bombiarka/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/bomba.exe ";
         command += ui->ip_edit->text();
         command += " ";
         command += ui->port_edit->text();
